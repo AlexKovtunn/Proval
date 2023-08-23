@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Proval/static/css/main.2868d51c.css",
+    "main.js": "/Proval/static/js/main.d5f65231.js",
+    "static/media/cursor.svg": "/Proval/static/media/cursor.ede556d109fbddc74a2f.svg",
+    "index.html": "/Proval/index.html",
+    "main.2868d51c.css.map": "/Proval/static/css/main.2868d51c.css.map",
+    "main.d5f65231.js.map": "/Proval/static/js/main.d5f65231.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2868d51c.css",
+    "static/js/main.d5f65231.js"
+  ]
+}
