@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Proval/static/css/main.c33269c9.css",
+    "main.css": "/Proval/static/css/main.685f36c3.css",
     "main.js": "/Proval/static/js/main.692a7856.js",
     "static/media/no-image.png": "/Proval/static/media/no-image.2a7d0055e5f69284e6ef.png",
     "static/media/cursor.svg": "/Proval/static/media/cursor.ede556d109fbddc74a2f.svg",
     "index.html": "/Proval/index.html",
-    "main.c33269c9.css.map": "/Proval/static/css/main.c33269c9.css.map",
+    "main.685f36c3.css.map": "/Proval/static/css/main.685f36c3.css.map",
     "main.692a7856.js.map": "/Proval/static/js/main.692a7856.js.map"
   },
   "entrypoints": [
-    "static/css/main.c33269c9.css",
+    "static/css/main.685f36c3.css",
     "static/js/main.692a7856.js"
   ]
 }
